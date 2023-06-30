@@ -31,3 +31,7 @@ function narcissistic(value) {
 * BSUIR, Faculty of Computer Design, specialization: medical electronics
 ## Experience
 * Practice in an IT firm "internetsozdateli"
+## Languages
+* English (B1)
+* Polish (A2)
+* French (B1)
