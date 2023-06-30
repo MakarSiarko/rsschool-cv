@@ -15,3 +15,15 @@ I consider my strengths to be good learning ability, as well as an analytical mi
 * Git/GitHub
 * JavaScript
 * C/C++ (for microcontroller programming)
+## Code example
+```
+function narcissistic(value) {
+  let arm = String(value), sum = 0;
+  for(let i = 0; i < arm.length; i++){
+    sum += arm[i]**(arm.length);
+  }
+  if(sum == value){
+    return true;
+  } else return false;
+}
+```
