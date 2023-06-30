@@ -27,3 +27,7 @@ function narcissistic(value) {
   } else return false;
 }
 ```
+## Education
+* BSUIR, Faculty of Computer Design, specialization: medical electronics
+## Experience
+* Practice in an IT firm "internetsozdateli"
