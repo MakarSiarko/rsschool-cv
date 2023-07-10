@@ -1,0 +1,37 @@
+# Makar Siarko
+## My Contact Info
+* Phone: +375333303313
+* E-mail: cerko2002@gmail.com
+* Telegram: @Makarch4ik
+* [Codewars](адрес "https://www.codewars.com/users/Makarius")
+* [GitHub](адрес "https://github.com/MakarSiarko?tab=repositories")
+## About me
+I had to work in a small IT company, where I mastered opencart and basic layout skills.
+At the moment I am studying at BSUIR, where I have to program a lot and master various technologies.
+I consider my strengths to be good learning ability, as well as an analytical mindset. For my part, I am ready to learn a lot and make enough efforts to become a programmer.
+## My skills
+* HTML
+* CSS/SCSS
+* Git/GitHub
+* JavaScript
+* C/C++ (for microcontroller programming)
+## Code example
+```
+function narcissistic(value) {
+  let arm = String(value), sum = 0;
+  for(let i = 0; i < arm.length; i++){
+    sum += arm[i]**(arm.length);
+  }
+  if(sum == value){
+    return true;
+  } else return false;
+}
+```
+## Education
+* BSUIR, Faculty of Computer Design, specialization: medical electronics
+## Experience
+* Practice in an IT firm "internetsozdateli"
+## Languages
+* English (B1)
+* Polish (A2)
+* French (B1)
